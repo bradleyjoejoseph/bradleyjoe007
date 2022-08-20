@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bradleyjoe007
 - 👀 I’m interested in game development and AI new emerging technologies
-- 🌱 I’m currently learning Front End Libraries
+- 🌱 I’m currently learning React
 - 📫 How to reach me email me at bradleyjoe007@gmail.com or phone +447587956344
 
 <!---
